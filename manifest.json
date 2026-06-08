@@ -1,0 +1,12 @@
+{
+  "name": "Mes Menus & Courses · Nutri-Claude",
+  "short_name": "Nutri-Claude",
+  "description": "Plan nutrition jeûne intermittent 18/6 — menus et liste de courses.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ede4d0",
+  "theme_color": "#ede4d0",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
